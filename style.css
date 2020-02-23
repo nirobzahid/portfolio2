@@ -1,0 +1,87 @@
+/* first part & second part */
+body{
+  margin: 0;
+  padding: 0;
+}
+.img{
+  height: 500px;
+  width: 500px;
+}
+.half{
+  height: 500px;
+    margin-left: 30px;
+    padding: 20px;
+    width: 600px;
+    float: left;
+}
+#name{
+  color: rgb(221, 7, 114);
+  font-size: 30px;
+}
+#name:hover{
+  font-size: 80px;
+}
+.first{
+  padding-top: 30px;
+  float: left;
+  background-image: url(images/header-bg.png);
+  background-repeat: no-repeat;
+
+}
+.button{
+  text-decoration: none;
+  background-image: linear-gradient(45deg, rgb(155, 40, 97),rgb(167, 3, 85));
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px; 
+  /* this is text color */
+  font-weight: 700; /*for bold the text */
+} 
+.button:hover{
+  color:royalblue;
+  font-size: 30px;
+  }
+.text{
+  color: rgb(80, 78, 78);
+}
+/* kkkkk */
+#hh2{
+  text-align: center;
+}
+.work{
+ float: left;
+}
+.image {
+  height: 350px;
+  width: 300px;
+  margin: 74px;
+}
+/* kkkkkkkkk */
+
+
+.second{
+  text-align: center;
+}
+
+
+.footer{
+  text-align: center;
+  height: 20px;
+}
+#email{
+  color: aliceblue;
+  text-align: center;
+  padding: 30px;
+  width: 700px;
+  border-radius: 2%;
+  background-color: rgb(209, 7, 108);
+  margin: 0 auto;
+}
+#last{
+  background-image: url(images/footer-bg.png);
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.mail{
+  font-size: 40px;
+}
