@@ -4,6 +4,7 @@ body{
   padding: 0;
   width: 1350px;
   position: absolute;
+  font-family: 'Poppins', sans-serif;
 }
 .img{
   height: 500px;
